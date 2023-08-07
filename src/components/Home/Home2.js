@@ -19,7 +19,7 @@ function Home2() {
               WHO <span className="purple"> I AM </span> 
             </h1>
             <p className="home-about-body">
-            I graduated Dartmouth College, any Ivy League University, with a Bachelor of Arts in History in 2016.  I served as Vice President of the Class of 2016 and was a 4 year member of the 14th-ranked Rowing Team in the United States.            <br />
+            I graduated Dartmouth College, an Ivy League University, with a Bachelor of Arts in History in 2016.  I served as Vice President of the Class of 2016 and was a 4 year member of the 14th-ranked Rowing Team in the United States.            <br />
 
             <br />
             Since graduation, I've worked in enterprise software sales as a technical product expert, and provide SAT tutoring, College Essay guidance, and college advising consulting to high school students looking for an extra edge in the college admissions process.
